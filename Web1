@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible"
+      content="IE-edge">
+     <head>
+         <title>
+         Examen
+         </title>
+         <style>
+             main{background-color: white; width: 95%; margin: auto;}
+             body{background-color: white;}
+             header {background-color: aqua; width: 95%; margin: auto;text-align: center;background-image:url(./img/favicon.ico);background-repeat:repeat-y}
+                             nav { background-color: aqua; width: 95%; margin: auto;display: inline-flex; flex-direction: row; flex-wrap: wrap;}
+             
+          nav ul {padding: 5px; list-style-type: none; margin: auto;}
+             nav li{font-family: serif;}
+             nav a{text-decoration: none}
+             nav a:hover{background-color: black;color: white}
+             h1{color: darkslategrey;}
+             h2{color: darkslategrey}
+             .columna1{display: inline-flex; flex-direction: row; flex-wrap: wrap;;margin-left: 30px;width: 30%}
+             .columna2{display: inline-flex; flex-direction: row; flex-wrap: wrap;;margin-left: 30px;width: 30%}
+             .columna3{display: inline-flex; flex-direction: row; flex-wrap: wrap;;margin-left: 30px;width: 30%}
+             galeria{display: flex; flex-direction: row ; flex-wrap: wrap;background-color: white; width: 75%; margin: auto;}
+             galeria img{margin-bottom:5px; margin-left: 5px; margin-top: 5px;}
+         </style>
+    
+    </head>
+<body>
+    <main>
+    <header>
+        <h1>Campaña De Ropa Limpia</h1>
+        <h2>Ropa Limpia-SETEM</h2>
+        </header>
+    <nav>
+        <ul
+            <li><a href="">La Campaña ropa limpia CRL</a></li>
+            <li><a href="">Nacio en 1969 en Holanda</a></li>
+            <li><a href="">Entra ya en la campaña de ropa limpia</a></li>
+            <li><a href="2Examen%202%C2%BAEv.html">En España-Madrid</a></li>
+        
+         </nav>
+        <div class="columna1"><p>Ultimas Novedades</p>
+    La Campaña Ropa Limpia trabaja para denunciar la vulneración de los derechos laborales de trabajadoras y trabajadores del sector textil en el mundo, 
+impulsar políticas de responsabilidad social entre los fabricantes y los distribuidores de ropa,
+ impulsar iniciativas legales que velen por los derechos fundamentales de las personas que fabrican la ropa en todo el mundo y promover un consumo responsable en nuestra sociedad)
+Temas Populares
+      </div>
+    <div class="columna2">
+    <p>Temas Populares</p>
+        En España, está promovida y coordinada por la Federación SETEM desde 1997 y cuenta co n el apoyo de más de 60 organizaciones de desarrollo, sociales , sindicales y de personas consumidoras .
+El verano de 2014 viajé a Guatemala. 
+Realmente, meses antes no conocía casi nada de este país. En cuanto investigué un poco sobre historia y cultura guatemalteca descubrí que es un país que atrapa.
+ Una traumática historia reciente de genocidio, represión y dictadura que aún marca la actual situación sociopolítica.
+    </div>
+    <div class="columna3">
+    <p>Viajes Solidarios
+</p>
+La formación previa al viaje que recibimos en Setem es algo más que necesaria.
+ Más allá de las inquietudes personales y nuestra sensibilización hacia ciertos temas, ofrecen una serie de conferencias y 
+talleres en los que adquieres una visión crítica e inquieta acerca del mundo en que vivimos, cosa que se agradece antes de realizar un viaje así.
+    </div>
+    <div class="galeria">
+    <img src="./img/rp.jpg"width="150"height="150">
+    <img src="./img/rp2.jpg"width="150"height="150">
+    <img src="./img/rp3.jpg"width="150"height="150">
+    <img src="./img/rp.jpg"width="150"height="150">
+    <img src="./img/rp.jpg"width="150"height="150">
+        <img src="./img/rp.jpg"width="150"height="150">
+    </div>
+    
+    
+    
+    </main>
+    
+    
+    </body>
+
+
+</html>
